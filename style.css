@@ -1,0 +1,299 @@
+#scrach{
+    background-color: rgb(8, 8, 63);
+    color: white;
+}
+#org{
+    background-color: blue;
+
+}
+#hed{
+    background-color: rgb(94, 94, 139);
+    display: flex;
+    
+}
+#home{
+    display: flex;
+    gap: 10%;
+    margin-left: 30%;
+}
+#privacy{
+    font-size: xx-large;
+    margin-left: 10%;
+}
+#certain{
+    margin-left: 10%;
+    display: flex;
+    gap: 20%;
+    margin-bottom: 40%;
+}
+#button{
+    background-color: lightblue;
+}
+#h{
+    color: orange;
+}
+#sr{
+    width: 15%;
+    height: 15%;
+    margin-right: 20%;
+    
+}
+#p{
+    color: orange;
+}
+#r{
+    font-size: xx-large;
+}
+#s{
+    margin-left: 10%;
+    display: flex;
+}
+#j{
+    display: flex;
+}
+#l{
+    margin-top: 22%;
+    padding-right: 35%;
+}
+#m{
+    margin-top: 22%;
+    padding-right: 35%;
+} 
+#show{
+    margin-top: 22%;
+    padding-right: 35%;
+
+}
+#a{
+    color: orange;
+}
+#b{
+    background-color: blue;
+}
+#o{
+    font-size: xx-large;
+}
+#lk{
+    display: flex;
+    gap: 20%;
+}
+#te{
+    margin-left: 40%;
+}
+#q{
+    font-size: xx-large;
+    gap: 10%;
+}
+#d{
+    font-size: xx-large;
+}
+#cap{
+    display: flex;
+    gap: 19%;
+}
+#v{
+    display: flex;
+    gap: 36%;
+}
+#p{
+    display: flex;
+    gap: 36%;
+}
+#z{
+    display: flex;
+    gap: 25%;
+}
+#du{
+    width: 90%;
+    height: 45%;
+}
+#mama{
+    color: white;
+    background-color: rgb(6, 6, 42);
+    text-align: center;
+}
+#team{
+    color: orange;
+    font-size: xx-large;
+   
+}
+#d{
+    font-size: xx-large;
+}
+#goo{
+    display: flex;
+    gap: 10%;
+    margin-left: 50%;
+    margin-bottom: 40%;
+}
+#last{
+    background-color: rgb(35, 72, 84);
+}
+#jane{
+    background-color: orange;
+}
+#du{
+    background-color: rgb(73, 161, 161);
+    align-items: center;
+    text-align: center;
+}
+#duke{
+
+}
+
+    
+
+
+@media all  and(max-width: 844px){
+    #scrach{
+        background-color: rgb(8, 8, 63);
+        color: white;
+        border-radius: 200%;
+        background-color: yellow;
+
+    }
+    #org{
+        background-color: blue;
+        border-radius: 200%;
+    
+    }
+    #hed{
+        background-color: rgb(94, 94, 139);
+        margin-right: 50%;
+        
+    }
+    #home{
+        display: flex;
+        gap: 10%;
+        margin-left: 30%;
+    }
+    #privacy{
+        font-size: xx-large;
+        margin-left: 10%;
+    }
+    #certain{
+        margin-left: 10%;
+        display: flex;
+        gap: 20%;
+        margin-bottom: 40%;
+    }
+    #button{
+        background-color: lightblue;
+    }
+    #h{
+        color: orange;
+    }
+    #sr{
+        width: 15%;
+        height: 15%;
+        margin-right: 200%;
+        
+    }
+    #p{
+        color: orange;
+    }
+    #r{
+        font-size: xx-large;
+    }
+    #s{
+        margin-left: 10%;
+        display: flex;
+    }
+    #j{
+        display: flex;
+    }
+    #l{
+        margin-top: 22%;
+        padding-right: 35%;
+    }
+    #m{
+        margin-top: 22%;
+        padding-right: 35%;
+    } 
+    #show{
+        margin-top: 22%;
+        padding-right: 35%;
+    
+    }
+    #a{
+        color: orange;
+    }
+    #b{
+        background-color: blue;
+    }
+    #o{
+        font-size: xx-large;
+    }
+    #lk{
+        display: flex;
+        gap: 20%;
+    }
+    #te{
+        margin-left: 40%;
+    }
+    #q{
+        font-size: xx-large;
+        gap: 10%;
+    }
+    #d{
+        font-size: xx-large;
+    }
+    #cap{
+        display: flex;
+        gap: 19%;
+    }
+    #v{
+        display: flex;
+        gap: 36%;
+    }
+    #p{
+        display: flex;
+        gap: 36%;
+    }
+    #z{
+        display: flex;
+        gap: 25%;
+    }
+    #du{
+        width: 90%;
+        height: 45%;
+    }
+    #mama{
+        color: white;
+        background-color: rgb(6, 6, 42);
+        text-align: center;
+    }
+    #team{
+        color: orange;
+        font-size: xx-large;
+       
+    }
+    #d{
+        font-size: xx-large;
+    }
+    #goo{
+        display: flex;
+        gap: 10%;
+        margin-left: 50%;
+        margin-bottom: 40%;
+    }
+    #last{
+        background-color: rgb(35, 72, 84);
+    }
+    #jane{
+        background-color: orange;
+    }
+    #du{
+        background-color: rgb(73, 161, 161);
+        align-items: center;
+        text-align: center;
+    }
+    #duke{
+    
+    }
+    
+    body{
+        
+    }
+}
+    
